@@ -25,7 +25,7 @@
     "configstore": "^5.0.1",
     "cordova-common": "^5.0.0",
     "cordova-create": "^5.0.0",
-    "cordova-lib": "^12.0.1",
+    "cordova-lib": "https://github.com/apache/cordova-lib.git#12.0.1",
     "editor": "^1.0.0",
     "execa": "^5.1.1",
     "nopt": "^7.2.0",
